@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Complexview175</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="title">
+        <item>pic1</item>
+        <item>pic2</item>
+        <item>pic3</item>
+        <item>pic4</item>
+        <item>pic5</item>
+        <item>pic6</item>
+        <item>pic7</item>
+        <item>pic8</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>pic1 data</item>
+        <item>pic2 data</item>
+        <item>pic3 data</item>
+        <item>pic4 data</item>
+        <item>pic5 data</item>
+        <item>pic6 data</item>
+        <item>pic7 data</item>
+        <item>pic8 data</item>
+
+    </string-array>
+
+</resources>
